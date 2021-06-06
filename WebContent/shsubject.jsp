@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+	<form action="search.do" method="post">
+	ID:<input type="text" name="id" /><br>
 </body>
 </html>

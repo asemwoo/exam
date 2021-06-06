@@ -7,7 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>	
-	<a href="login.jsp">WELCOME</a>환영합니다<br>
+환영합니다<br>
+	<a href="login.jsp">WELCOME</a>
 
 
 </body>
